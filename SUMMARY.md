@@ -1,5 +1,8 @@
 # Table of contents
 
 * [Cirrocumulus Cloud](README.md)
-* [Virtual Private Server](virtual-private-server.md)
+
+## Cloud Services
+
+* [Virtual Private Server](cloud-services/virtual-private-server.md)
 

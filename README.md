@@ -6,7 +6,7 @@ description: A DN42 Cloud Services Provider
 
 ## What Services We Provide?
 
-Now we provide Virtual Private Server \(VPS, base on LXD\).
+Now we provide Virtual Private Server \(VPS\).
 
 **All of our services are free.**
 

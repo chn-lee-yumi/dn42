@@ -10,6 +10,8 @@ Now we provide Virtual Private Server \(VPS, base on LXD\).
 
 **All of our services are free.**
 
+If you think your access to our services is slow, you can try to peer with us.
+
 ## Peering
 
 We have 3 nodes. GRE or Wireguard are accepted.
@@ -56,4 +58,8 @@ Link local IPv6 address: fe80::3/64
 Public key: 9vBgwIITURu82etLnWEj3uEhQRHoi9/etlpygrKxFyQ=
 Multi-Protocol over BGPv6: yes
 ```
+
+## Contact
+
+E-mail: chn.lee.yumi@gmail.com
 

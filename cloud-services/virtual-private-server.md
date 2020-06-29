@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The VPS is base on LXD.
+**This service only can be accessed in DN42 network.**
 
-All VPS are only have access to DN42 network. If you want to access public network, you need to set up your own tunnel.
+The VPS are base on LXD. All VPS are only have access to DN42 network. If you want to access public network, you need to set up your own tunnel.
 
 ## Usage
 

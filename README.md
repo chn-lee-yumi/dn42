@@ -6,7 +6,7 @@ description: A DN42 Cloud Services Provider
 
 ## What Services We Provide?
 
-Now we provide Virtual Private Server \(VPS\).
+Now we provide VPS \(Virtual Private Server\) and SaaS \(Software as a Service\).
 
 **All of our services are free.**
 

@@ -1,6 +1,8 @@
-# Virtual Private Server
+# Virtual Private Server \(offline\)
 
 ## Introduction
+
+**This service is offline due to lack of use. If you want to use this service, please contact us.**
 
 **This service only can be accessed in DN42 network.**
 

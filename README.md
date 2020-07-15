@@ -6,11 +6,15 @@ description: A DN42 Cloud Services Provider
 
 ## What Services We Provide?
 
-Now we provide VPS \(Virtual Private Server\) and SaaS \(Software as a Service\).
+Now we provide ~~VPS \(Virtual Private Server\)~~ and SaaS \(Software as a Service\).
 
 **All of our services are free.**
 
 If you think your access to our services is slow, you can try to peer with us.
+
+### Future
+
+A looking glass and a search engine is going to be online.
 
 ## Peering
 

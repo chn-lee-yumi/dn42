@@ -4,7 +4,7 @@ description: A DN42 Cloud Services Provider
 
 # Cirrocumulus Cloud
 
-## What Services We Provide?
+## What Cloud Services We Provide?
 
 Now we provide ~~VPS \(Virtual Private Server\)~~ and SaaS \(Software as a Service\).
 
@@ -12,9 +12,15 @@ Now we provide ~~VPS \(Virtual Private Server\)~~ and SaaS \(Software as a Servi
 
 If you think your access to our services is slow, you can try to peer with us.
 
-### Future
+## What Other Services We Have?
 
-A looking glass and a search engine is going to be online.
+We are not only provide cloud services. Besides, we also provide some services.
+
+We provide a Looking Glass which you can see the BGP info from our nodes.
+
+We also have an DN42 Search Engine, which can search things about DN42, in DN42 network or Internet.
+
+A node status panel is provided to see if our node is down.
 
 ## Peering
 

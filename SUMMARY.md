@@ -7,9 +7,9 @@
 * [Virtual Private Server \(offline\)](cloud-services/virtual-private-server.md)
 * [Software as a Service](cloud-services/software-as-a-service.md)
 
-## SERVICES <a id="services-1"></a>
+## OTHER SERVICES
 
-* [Looking Glass](services-1/looking-glass.md)
-* [DN42 Search Engine](services-1/dn42-search-engine.md)
-* [Node Status](services-1/node-status.md)
+* [Looking Glass](other-services/looking-glass.md)
+* [DN42 Search Engine](other-services/dn42-search-engine.md)
+* [Node Status](other-services/node-status.md)
 

@@ -4,9 +4,11 @@ description: A DN42 Cloud Services Provider
 
 # Cirrocumulus Cloud
 
+**We leave DN42 temporarily. All the services are currently offline, sorry for the inconvenience caused.**
+
 ## What Cloud Services We Provide?
 
-Now we provide ~~VPS \(Virtual Private Server\)~~ and SaaS \(Software as a Service\).
+Now we provide ~~VPS (Virtual Private Server)~~ and SaaS (Software as a Service).
 
 **All of our services are free.**
 
@@ -14,11 +16,11 @@ If you think your access to our services is slow, you can try to peer with us.
 
 ## What Other Services We Have?
 
-We are not only provide cloud services. Besides, we also provide some services.
+We do not only provide cloud services. Besides, we also provide some services.
 
-We provide a Looking Glass which you can see the BGP info from our nodes.
+We provide a Looking Glass through which you can see the BGP info from our nodes.
 
-We also have an DN42 Search Engine, which can search things about DN42, in DN42 network or Internet.
+We also have a DN42 Search Engine, which can search things about DN42, in the DN42 network or Internet.
 
 A node status panel is provided to see if our node is down.
 
@@ -30,7 +32,7 @@ We have 3 nodes. GRE or Wireguard are accepted.
 
 #### Los Angeles
 
-```text
+```
 AS: 4242422024
 Locality: Los Angeles, US
 Public Endpoint: los-angeles-us.dn42.gcc.ac.cn:2(LAST_4_AS_DIGITS)
@@ -45,7 +47,7 @@ Multi-Protocol over BGPv6: yes
 
 #### Shenzhen
 
-```text
+```
 AS: 4242422024
 Locality: Shenzhen, CN
 Public Endpoint: shenzhen-cn.dn42.gcc.ac.cn:2(LAST_4_AS_DIGITS)
@@ -58,7 +60,7 @@ Multi-Protocol over BGPv6: yes
 
 #### Hong Kong
 
-```text
+```
 AS: 4242422024
 Locality: Hongkong, CN
 Public Endpoint: hongkong-cn.dn42.gcc.ac.cn:2(LAST_4_AS_DIGITS)
@@ -72,4 +74,3 @@ Multi-Protocol over BGPv6: yes
 ## Contact
 
 E-mail: chn.lee.yumi@gmail.com
-

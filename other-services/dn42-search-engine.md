@@ -1,8 +1,5 @@
-# DN42 Search Engine
+# DN42 Search Engine (offline)
 
-Search anything about DN42. This search engine doesn't record pages that don't contain "DN42" word.
+Search for anything about DN42. This search engine doesn't record pages that don't contain the "DN42" word.
 
-{% embed url="http://120.25.198.138/" %}
-
-
-
+**We leave DN42 temporarily. Now this service is offline.**

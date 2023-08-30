@@ -6,6 +6,8 @@ description: A DN42 Cloud Services Provider
 
 **We leave DN42 temporarily. All the services are currently offline, sorry for the inconvenience caused.**
 
+My blog: [https://blog.gcc.ac.cn](https://blog.gcc.ac.cn)
+
 ## What Cloud Services We Provide?
 
 Now we provide VPS (Virtual Private Server) and SaaS (Software as a Service).
